@@ -26,8 +26,8 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vfLE8Kqw6B0J:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEqGOo:AFWwaeYAAAAAZsgsAOqr92O6WWDeL_T5o8NLwpo&scisig=AFWwaeYAAAAAZsgsADbx4Viv7RFL6gGZpm4lZio&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
     blog: https://mp.weixin.qq.com/s/UVeAsQ_ysf-1sv3o_6HKAA
     image: ./assets/img/DARF.png
-
- - title: "MagicScaler: Uncertainty-aware, Predictive Autoscaling"
+  
+  - title: "MagicScaler: Uncertainty-aware, Predictive Autoscaling"
     authors: Zhicheng Pan, Yihang Wang, Yingying Zhang, Sean Bin Yang, Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang
     conference_short: VLDB
     conference: International Conference on Very Large Databases, 2023.
