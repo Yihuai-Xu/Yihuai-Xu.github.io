@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in [School of Data Science and Engineering](https://dase.ecnu.edu.cn/) of East China Normal University(https://www.ecnu.edu.cn/) and a member of [DI DaSE](https://decisionintelligence.github.io/index), advised by Prof.[Chenjuan Guo](https://scholar.google.com.hk/citations?hl=zh-CN&user=WMXNm88AAAAJ). My reasearch 
+interests focus on time series, including forecasting, classification, time series fundation model, large language model for time series. 
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+<!-- - **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## News
 
