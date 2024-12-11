@@ -24,7 +24,7 @@ main:
     pdf: https://arxiv.org/pdf/2410.19892
     image: ./assets/img/Air_DualODE.png
   
-    - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
+  - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
     authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
     conference_short: arXiv
     conference: arXiv preprint, 2024.
