@@ -16,6 +16,20 @@ main:
     conference: arXiv preprint, 2024.
     pdf: https://arxiv.org/pdf/2405.17478
     image: ./assets/img/Rose.png
+  
+  - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
+    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2410.19892
+    image: ./assets/img/Air_DualODE.png
+  
+    - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
+    authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
+    conference_short: arXiv
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2410.11802
+    image: ./assets/img/FoundTS.png
 
   - title: Weakly Guided Adaptation for Robust Time Series Forecasting
     authors: Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Kai Zhao, Qingsong Wen, Bin Yang, Christian S. Jensen
