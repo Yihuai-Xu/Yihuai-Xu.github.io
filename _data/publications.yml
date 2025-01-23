@@ -19,8 +19,8 @@ main:
   
   - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
     authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
     pdf: https://arxiv.org/pdf/2410.19892
     image: ./assets/img/Air_DualODE.png
   

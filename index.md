@@ -12,7 +12,10 @@ interests focus on Time Series Analysis based on Deep Learning, including foreca
 
 ## News
 
+- **[Jan. 2025]** Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems is accepted to ICLR 2025.
+
 - **[Jan. 2024]** Multi-scale Time Series Forecasting Model (Pathformer) is accepted to ICLR 2024.
+
 
 {% include_relative _includes/publications.md %}
 
