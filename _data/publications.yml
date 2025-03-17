@@ -9,6 +9,16 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wYZYLbM5iCcJ:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEqJ7I:AFWwaeYAAAAAZsgsP7JqEMEVbiQTsODTGm1VgiM&scisig=AFWwaeYAAAAAZsgsP0_HEnCY9is-GpGGiQ3VRXg&scisf=4&ct=citation&cd=-1&hl=zh-CN
     blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
     image: ./assets/img/pathformer.png
+  
+  - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
+    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations, 2025.
+    pdf: https://arxiv.org/pdf/2410.19892
+    code: https://github.com/decisionintelligence/Air-DualODE
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ONHgZyvfnEAJ:scholar.google.com/&output=citation&scisdr=ClHG5IWjEISstH6ZFGU:AFWwaeYAAAAAZ9efDGVHGPuVg60BwUrMJ924JUQ&scisig=AFWwaeYAAAAAZ9efDEkj0i10UUhzkGlUDyxW1YI&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    blog: https://mp.weixin.qq.com/s/hMc5lXuwPS_bryXHt5jhrQ
+    image: ./assets/img/Air_DualODE.png
 
   - title: "ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning"
     authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo
@@ -17,13 +27,7 @@ main:
     pdf: https://arxiv.org/pdf/2405.17478
     image: ./assets/img/Rose.png
   
-  - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
-    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
-    conference_short: ICLR
-    conference: International Conference on Learning Representations, 2025.
-    pdf: https://arxiv.org/pdf/2410.19892
-    image: ./assets/img/Air_DualODE.png
-  
+ 
   - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
     authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
     conference_short: arXiv
