@@ -13,4 +13,6 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=69"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/TIST"><autocolor>ACM Transactions on Intelligent Systems and Technology (TIST)</autocolor></a></li>
+  <li><a href="http://dblp.uni-trier.de/db/journals/tnn"><autocolor>IEEE Transactions on Neural Networks and learning systems (TNNLS)</autocolor></a></li>
 </ul>
