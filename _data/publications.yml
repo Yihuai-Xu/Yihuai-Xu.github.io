@@ -7,4 +7,7 @@ main:
     pdf: https://openreview.net/forum?id=vo4AHjowKi
     code: https://github.com/TrustMedia-zju/Lastde_Detector
     image: ./assets/img/lastde.png
+
+  - title: "Training-free Black-box LLM-Generated Text Detection By Token Probability Topology Modeling"
+    authors: <strong>Yihuai Xu</strong>, Kangtao Lv, Huangsen Cao, Wenyan Fan, Fei Wu
   
