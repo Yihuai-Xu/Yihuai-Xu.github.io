@@ -1,55 +1,10 @@
 main:
 
-  - title: "Pathformer: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting"
-    authors: <strong>Peng Chen</strong>, Yingying Zhang, Yunyao Cheng, Yang Shu, Yihang Wang, Qingsong Wen, Bin Yang, Chenjuan Guo
-    conference_short: ICLR
-    conference: International Conference on Learning Representations, 2024.
-    pdf: https://arxiv.org/pdf/2402.05956
-    code: https://github.com/decisionintelligence/pathformer
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:wYZYLbM5iCcJ:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEqJ7I:AFWwaeYAAAAAZsgsP7JqEMEVbiQTsODTGm1VgiM&scisig=AFWwaeYAAAAAZsgsP0_HEnCY9is-GpGGiQ3VRXg&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    blog: https://mp.weixin.qq.com/s/Bn6CrEPg1PZdGAu04rjEMQ
-    image: ./assets/img/pathformer.png
-  
-  - title: "Air Quality Prediction with Physics-Informed Dual Neural ODEs in Open Systems"
-    authors: Jindong Tian, Yuxuan Liang, Ronghui Xu, <strong>Peng Chen</strong>, Chenjuan Guo, Aoying Zhou, Lujia Pan, Zhongwen Rao, Bin Yang
+  - title: "Training-free LLM-generated Text Detection by Mining Token Probability Sequences"
+    authors: <strong>Yihuai Xu</strong>, Yongwei Wang, Yifei Bi, Huangsen Cao, Zhouhan Lin, Yu Zhao, Fei Wu
     conference_short: ICLR
     conference: International Conference on Learning Representations, 2025.
-    pdf: https://arxiv.org/pdf/2410.19892
-    code: https://github.com/decisionintelligence/Air-DualODE
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ONHgZyvfnEAJ:scholar.google.com/&output=citation&scisdr=ClHG5IWjEISstH6ZFGU:AFWwaeYAAAAAZ9efDGVHGPuVg60BwUrMJ924JUQ&scisig=AFWwaeYAAAAAZ9efDEkj0i10UUhzkGlUDyxW1YI&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    blog: https://mp.weixin.qq.com/s/hMc5lXuwPS_bryXHt5jhrQ
-    image: ./assets/img/Air_DualODE.png
-
-  - title: "ROSE: Register Assisted General Time Series Forecasting with Decomposed Frequency Learning"
-    authors: Yihang Wang, Yuying Qiu, <strong>Peng Chen</strong>, Kai Zhao, Yang Shu, Zhongwen Rao, Lujia Pan, Bin Yang, Chenjuan Guo
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/pdf/2405.17478
-    image: ./assets/img/Rose.png
+    pdf: https://openreview.net/forum?id=vo4AHjowKi
+    code: https://github.com/TrustMedia-zju/Lastde_Detector
+    # image: ./assets/img/pathformer.png
   
- 
-  - title: "FoundTS: Comprehensive and Unified Benchmarking of Foundation Models for Time Series Forecasting"
-    authors: Zhe Li, Xiangfei Qiu, <strong>Peng Chen</strong>, Yihang Wang, Hanyin Cheng, Yang Shu, Jilin Hu, Chenjuan Guo, Aoying Zhou, Qingsong Wen, Christian S Jensen, Bin Yang
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/pdf/2410.11802
-    image: ./assets/img/FoundTS.png
-
-  - title: Weakly Guided Adaptation for Robust Time Series Forecasting
-    authors: Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Kai Zhao, Qingsong Wen, Bin Yang, Christian S. Jensen
-    conference_short: VLDB
-    conference: International Conference on Very Large Databases, 2024.
-    pdf: https://www.vldb.org/pvldb/vol17/p766-cheng.pdf
-    code: https://github.com/decisionintelligence/DARF
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:vfLE8Kqw6B0J:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEqGOo:AFWwaeYAAAAAZsgsAOqr92O6WWDeL_T5o8NLwpo&scisig=AFWwaeYAAAAAZsgsADbx4Viv7RFL6gGZpm4lZio&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
-    blog: https://mp.weixin.qq.com/s/UVeAsQ_ysf-1sv3o_6HKAA
-    image: ./assets/img/DARF.png
-  
-  - title: "MagicScaler: Uncertainty-aware, Predictive Autoscaling"
-    authors: Zhicheng Pan, Yihang Wang, Yingying Zhang, Sean Bin Yang, Yunyao Cheng, <strong>Peng Chen</strong>, Chenjuan Guo, Qingsong Wen, Xiduo Tian, Yunliang Dou, Zhiqiang Zhou, Chengcheng Yang, Aoying Zhou, Bin Yang
-    conference_short: VLDB
-    conference: International Conference on Very Large Databases, 2023.
-    pdf: https://www.vldb.org/pvldb/vol16/p3808-yang.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sIohHSw3VDsJ:scholar.google.com/&output=citation&scisdr=ClHHn_H0EISstWEr_5U:AFWwaeYAAAAAZsgt55U3iwO8Nl_z9iKzIEdG7uQ&scisig=AFWwaeYAAAAAZsgt5-O23AtGD-PNnKSDSOMOTrg&scisf=4&ct=citation&cd=-1&hl=zh-CN
-    blog: https://mp.weixin.qq.com/s/QvDgfU1_msxTVv8JbDlwYg
-    image: ./assets/img/MagicScaler.png
