@@ -12,7 +12,10 @@ Shu](https://shuyang96.github.io). My reasearch interests focus on Time Series A
 
 ## News
 
+- **[Apr. 2025]** The paper titled ‘Training-free Black-box LLM-Generated Text Detection By Token Probability Topology Modeling’ is under submission.
+- **[Mar. 2025]** The paper titled ‘A New Subspace Minimization Conjugate Gradient Algorithm Without Explicit Use of Gradient Terms’ is under review.
 - **[Jan. 2025]** The paper titled ‘Training-free LLM-generated Text Detection by Mining Token Probability Sequences’ has been accepted by ICLR-2025.
+- **[Jan. 2025]** The paper titled ‘Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models’ is under review.
 
 {% include_relative _includes/publications.md %}
 
@@ -22,4 +25,3 @@ Shu](https://shuyang96.github.io). My reasearch interests focus on Time Series A
 
 {% include_relative _includes/internships.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
