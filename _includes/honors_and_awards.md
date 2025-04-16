@@ -1,4 +1,4 @@
-## Honors and Awards
+## Selected Honors and Awards
 
 - 2021.12, 13th National Undergraduate Mathematics Competition, Provincial Second Prize.
 - 2022.10, 19th "Huawei Cup" Mathematical Contest in Modeling, National Second Prize.
