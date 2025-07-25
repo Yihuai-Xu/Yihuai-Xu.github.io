@@ -8,11 +8,11 @@ main:
     code: https://github.com/TrustMedia-zju/Lastde_Detector
     image: ./assets/img/lastde.png
 
-  - title: "Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models"
-    authors: Kangtao Lv, Huangsen Cao, Kainan Tu, <strong>Yihuai Xu</strong>, Zhimeng Zhang, Xin Ding, Yongwei Wang
-    conference_short: arXiv
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/abs/2410.05951
+  - title: "Hyper adversarial tuning for boosting adversarial robustness of pretrained large vision transformers"
+    authors: Kangtao Lv, Wenyan Fan, Huangsen Cao, Kainan Tu, <strong>Yihuai Xu</strong>, Zhimeng Zhang, Yang Li, Xin Ding, Yongwei Wang
+    conference_short: PR
+    conference: Pattern Recognition, 2025.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325008180
     # code: https://github.com/TrustMedia-zju/Lastde_Detector
     image: ./assets/img/HyperAT.png
   
