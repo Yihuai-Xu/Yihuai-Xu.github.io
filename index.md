@@ -9,8 +9,8 @@ I am a Ph.D. student in [School of Artificial Intelligence](https://sai.whu.edu.
 
 ## News
 
-- **[Jul. 2025]** The paper titled 'Hyper adversarial tuning for boosting adversarial robustness of pretrained large vision transformers' has been accepted by Pattern Recognition 2026.
-- **[Jan. 2025]** The paper titled 'Training-free LLM-generated Text Detection by Mining Token Probability Sequences' has been accepted by ICLR 2025.
+- **[Jul. 2025]** The paper titled 'Hyper adversarial tuning for boosting adversarial robustness of pretrained large vision transformers' has been accepted by **Pattern Recognition 2026**.
+- **[Jan. 2025]** The paper titled 'Training-free LLM-generated Text Detection by Mining Token Probability Sequences' has been accepted by **ICLR 2025**.
 
 
 {% include_relative _includes/publications.md %}

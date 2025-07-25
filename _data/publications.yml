@@ -11,7 +11,7 @@ main:
   - title: "Hyper adversarial tuning for boosting adversarial robustness of pretrained large vision transformers"
     authors: Kangtao Lv, Wenyan Fan, Huangsen Cao, Kainan Tu, <strong>Yihuai Xu</strong>, Zhimeng Zhang, Yang Li, Xin Ding, Yongwei Wang
     conference_short: PR
-    conference: Pattern Recognition, 2025.
+    conference: Pattern Recognition, 2026.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320325008180
     # code: https://github.com/TrustMedia-zju/Lastde_Detector
     image: ./assets/img/HyperAT.png
