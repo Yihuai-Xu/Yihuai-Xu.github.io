@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in [School of Artificial Intelligence](https://sai.whu.edu.cn/en/index.htm) of [Wuhan University](https://en.whu.edu.cn/) and a member of [NextGen Lab](https://huggingface.co/NextGenWhu), advised by Prof.[Qianqian Xie](https://qianqian-xie.github.io/). My current research interests focus on **LLMs' reliability and interpretability, data-driven interpretability, and LLM-generated text detection**. 
+I am a first-year Ph.D. student in [School of Artificial Intelligence](https://sai.whu.edu.cn/en/index.htm) of [Wuhan University](https://en.whu.edu.cn/), advised by Prof.[Qianqian Xie](https://qianqian-xie.github.io/). My current research interests focus on **LLMs' reliability and interpretability, data-driven interpretability, and LLM-generated text detection**. 
 
 
 ## News
